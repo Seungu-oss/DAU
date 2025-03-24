@@ -1,2 +1,2 @@
-# DAU
+# OSS Class
 수업
